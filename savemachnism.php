@@ -1,6 +1,7 @@
 <?
 
 echo ("heleo");
+echo("fine");
 
 
 ?>
